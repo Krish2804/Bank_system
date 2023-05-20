@@ -1,0 +1,29 @@
+.one{
+    width: 80%;
+    height: 80%;
+    padding: auto;
+    margin: 40px;
+    background: yellowgreen;
+    text-align: center;
+    font-size: larger;
+}
+
+.two{
+    width: 100%;
+    height: 50%;
+    font-size: large;
+    border: 2px solid;
+}
+
+.three{
+    width: 80%;
+    height: 80%;
+    padding: auto;
+    margin: 40px;
+    background: yellowgreen;
+    text-align: center;
+}
+
+.four{
+    border: 2px solid;
+}
